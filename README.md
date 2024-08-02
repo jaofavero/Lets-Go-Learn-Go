@@ -1,1 +1,1 @@
-## Gogalng introduction based on the documetation
+Go (Golang) introduction following on offical documetation
